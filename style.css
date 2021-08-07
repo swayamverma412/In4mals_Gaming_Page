@@ -280,8 +280,8 @@ hr.light-100 {
 	text-align: center;
 	font-weight: bold;
 	margin-top: 20px;
-	margin-left: auto;
-	margin-right: auto;
+	margin-left: 30%;
+	margin-right: 30%;
 	padding: 10px 30px;
   padding-bottom: 30px;
 	background: var(--primary-bg);
