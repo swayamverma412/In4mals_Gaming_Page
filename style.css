@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
-
+@import url('//db.onlinewebfonts.com/c/29d3373f850b108f16002fbe93707b27?family=Glaive+Regular');
 html, body{
   height: 100%;
   width: 100%;
@@ -426,6 +426,7 @@ nav img {
   } 
   .display-4 {
     font-size: 200%;
+	
   }
   .social a{
     font-size: 2.5em;
@@ -455,6 +456,7 @@ nav img {
   }
   .display-4 {
     font-size: 225%;
+	
   }
   .social a{
     font-size: 2em;
